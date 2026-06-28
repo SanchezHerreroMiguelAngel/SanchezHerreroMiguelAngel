@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi! Soy [Tu Nombre y Apellidos] 👋
 
-<!--
-**SanchezHerreroMiguelAngel/SanchezHerreroMiguelAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de DAW, apasionado por el uso y descrubrimiento de nuevas herramientas tecnologicas.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🔭 Actualmente estoy trabajando en: **Un juego simple de Java**
+- 🌱 Estoy aprendiendo: **Java**
+- 💬 Pregúntame sobre: **java]**
+- ⚡ Dato curioso: **Me enacnta entrenar el cuerpo tanto como la mente**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mis Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, Java, HTML/CSS
+- **Frameworks/Librerías:** 
+- **Herramientas:** Git, GitHub, VS Code
+
+## 📈 Proyectos Destacados
+* 💻 **[Nombre Proyecto 1]**: [Breve descripción de una línea].
+* ⚙️ **[Nombre Proyecto 2]**: [Breve descripción de una línea].
+
+## 📬 Contacto
+- **LinkedIn:** [Enlace a tu LinkedIn](https://linkedin.com)
+- **Portfolio:** [Enlace a tu web]
+- **Email:** 
