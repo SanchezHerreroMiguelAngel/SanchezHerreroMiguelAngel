@@ -1,4 +1,4 @@
-# Hi! Soy [Tu Nombre y Apellidos] 👋
+# Hi! I'm Miguel Angel Sanchez Herrero👋
 
 Soy estudiante de DAW, apasionado por el uso y descrubrimiento de nuevas herramientas tecnologicas.
 
@@ -18,6 +18,6 @@ Soy estudiante de DAW, apasionado por el uso y descrubrimiento de nuevas herrami
 * ⚙️ **[Nombre Proyecto 2]**: [Breve descripción de una línea].
 
 ## 📬 Contacto
-- **LinkedIn:** [Enlace a tu LinkedIn](https://linkedin.com)
-- **Portfolio:** [Enlace a tu web]
+- **LinkedIn:** [Enlace a  LinkedIn](https://linkedin.com)
+- **Portfolio:** [Enlace a  web]
 - **Email:** 
